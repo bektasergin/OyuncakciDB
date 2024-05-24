@@ -1,0 +1,221 @@
+body{
+    background-color: ivory;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
+
+.kisiselBilgi {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 300px;
+    margin-left: 30px;
+}
+
+.ders{
+    font-family: Arial, sans-serif;
+    background-color: burlywood;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    font-size: 50px;
+}
+
+.listele{
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+.listelemeButonu{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    font-size: 20px;
+    width: 8%;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.oyuncakEkle{
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+.oyuncakEklee{
+    margin-left: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: burlywood;
+    width: 20%;
+    hight: 25%;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+.oyuncakEkleButonu{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.oyuncakSil{
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.oyuncakSil{
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.oyuncakSill{
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: burlywood;
+    width: 20%;
+    hight: 25%;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.oyuncakSilButonu{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.oyuncakGetir{
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.oyuncakGetirr{
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: burlywood;
+    width: 20%;
+    hight: 25%;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.oyuncakGetirButonu{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.oyuncakGuncelle{
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    margin-left: 30px;
+    width: 20%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.oyuncakGuncellee{
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: burlywood;
+    width: 20%;
+    hight: 25%;
+}
+
+.oyuncakGuncelleButonu{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 30px;
+}
+
+th {
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+td {
+    padding: 8px; /* Boşluk */
+    text-align: left; /
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.filterr{
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+    width: 80%;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
